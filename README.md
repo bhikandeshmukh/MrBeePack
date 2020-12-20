@@ -1,16 +1,25 @@
 <p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"> </a>
 
+-------------------------------------------------------------------------------------
+
 <p align="center">
 	<img src="res/mrbee.png" width="600px" hight="100px">
 </p>
 
+-------------------------------------------------------------------------------------
+
 # <p align="center">Mr. Bee Pack
+
+-------------------------------------------------------------------------------------
 
 <p align="center">
 <a href="https://github.com/bhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
  <a href="https://github.com/bhikandeshmukh/Termux-Keys"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
  <a href="https://github.com/bhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MrBeePack?style=social" ></a>
 </p>
+
+-------------------------------------------------------------------------------------
+
 <p align="center">
 <a href="https://github.com/bhikandeshmukh/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
 <a href="https://github.com/bhikandeshmukh/MrBeePack/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MrBeePack?color=red&style=flat-square"></a>
@@ -49,6 +58,7 @@ $ apt install git
 $ git clone https://github.com/bhikandeshmukh/MrBeePack.git
 $ cd MrBeePack
 $ chmod +x Termux-install.sh
+$ ./Termux-install.sh
 ```
 
 Run After Installing Termux-install.sh
