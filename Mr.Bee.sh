@@ -91,6 +91,8 @@ echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m Ip-locator (Found. country - 
 echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m WhatsApp-Bulk-Message-Sender (Whatsbot Bulk Sender)\e[0m\n";
 echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m Multi-Mail-Sender (Email Sender)\e[0m\n";
 echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m Facebook Report (fb id mass report)\e[0m\n";
+echo -e "\e[1;101m\e[1;97m16\e[1;101m\e[0m\e[1;96m AdvPshing (Advance Phishing OTP bypass)\e[0m\n";
+echo -e "\e[1;101m\e[1;97m17\e[1;101m\e[0m\e[1;96m TeleGrammer (Member add in telegram group)\e[0m\n";
 echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
 echo ""
 echo  "╭─Mr. Bee" |lolcat
@@ -102,7 +104,7 @@ read -p "╰──►" pil;
 
 case $pil in
 01) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/shark
 
 
@@ -113,7 +115,7 @@ git clone https://github.com/bhikandeshmukh/shark
 
 
 02) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/instarat.git
 
 
@@ -124,7 +126,7 @@ git clone https://github.com/bhikandeshmukh/instarat.git
 
 
 03) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/instainsane.git
 
 
@@ -135,7 +137,7 @@ git clone https://github.com/bhikandeshmukh/instainsane.git
 
 
 04) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/DroidTracker.git
 
 
@@ -146,7 +148,7 @@ git clone https://github.com/bhikandeshmukh/DroidTracker.git
 
 
 05) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/CamPhish.git
 
 ;;
@@ -156,7 +158,7 @@ git clone https://github.com/bhikandeshmukh/CamPhish.git
 
 
 06) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/cupp.git
 
 ;;
@@ -166,7 +168,7 @@ git clone https://github.com/bhikandeshmukh/cupp.git
 
 
 07) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/ipgeolocation.git
 
 ;;
@@ -176,7 +178,7 @@ git clone https://github.com/bhikandeshmukh/ipgeolocation.git
 
 
 08) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/Userrecon.git
 
 
@@ -187,7 +189,7 @@ git clone https://github.com/bhikandeshmukh/Userrecon.git
 
 
 09) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/saycheese.git
 
 
@@ -198,7 +200,7 @@ git clone https://github.com/bhikandeshmukh/saycheese.git
 
 
 10) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/Wi-Fi-Jammer.git
 
 ;;
@@ -208,7 +210,7 @@ git clone https://github.com/bhikandeshmukh/Wi-Fi-Jammer.git
 
 
 11) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/instagram-bruteforce.git
 
 ;;
@@ -218,7 +220,7 @@ git clone https://github.com/bhikandeshmukh/instagram-bruteforce.git
 
 
 12) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/ip-locator
 
 
@@ -229,7 +231,7 @@ git clone https://github.com/bhikandeshmukh/ip-locator
 
 
 13) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/WhatsApp-Bulk-Message-Sender.git
 ;;
 
@@ -238,7 +240,7 @@ git clone https://github.com/bhikandeshmukh/WhatsApp-Bulk-Message-Sender.git
 
 
 14) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/Multi-Mail-Sender.git
 
 ;;
@@ -248,13 +250,33 @@ git clone https://github.com/bhikandeshmukh/Multi-Mail-Sender.git
 
 
 15) clear
-toilet -f standard " TECH " -F gay
+echo -e "\e[101m Downloading... \e[0m"
 git clone https://github.com/bhikandeshmukh/fbreport.git
 
 ;;
 
 
-00) clear 
+#AdvPhishing
+
+
+16) clear
+echo -e "\e[101m Downloading... \e[0m"
+git clone https://github.com/bhikandeshmukh/AdvPhishing.git
+
+;;
+
+
+#TeleGrammer
+
+
+16) clear
+echo -e "\e[101m Downloading... \e[0m"
+git clone https://github.com/bhikandeshmukh/TeleGramer.git
+
+;;
+
+
+00) clear
 banner()
 {
   echo "==========================================="
