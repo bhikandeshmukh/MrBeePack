@@ -2,13 +2,13 @@
 
 -------------------------------------------------------------------------------------
 
-<p align="center">
-	<img src="res/mrbee.png" width="600px" hight="100px">
-</p>
+# <p align="center">Mr Bee Pack<p align="center">
 
 -------------------------------------------------------------------------------------
 
-# <p align="center">Mr. Bee Pack</p>
+<p align="center">
+	<img src="res/mrbee.png" width="600px" hight="100px">
+</p>
 
 -------------------------------------------------------------------------------------
 
@@ -26,6 +26,11 @@
 <a href="https://github.com/bhikandeshmukh/MrBeePack/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/MrBeePack?color=red&style=flat-square"></a>
 <a href="https://github.com/bhikandeshmukh/MrBeePack/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/MrBeePack?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+
+-------------------------------------------------------------------------------------
+
+###### <p align="center">*This is official repository maintained by us*
+###### <p align="center"> *[**Mr. Bee**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
 
 -------------------------------------------------------------------------------------
 
@@ -72,8 +77,6 @@ $ ./Mr.Bee.sh
 
 Usage of the tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-<p>Tool is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-
 -------------------------------------------------------------------------------------
 
 <p align="center">
@@ -86,3 +89,5 @@ Usage of the tool for attacking targets without prior mutual consent is illegal.
 <a href="https://rzp.io/l/mrbee"><img title="DONATE" src="https://img.shields.io/badge/DONATE-yellow?style=for-the-badge&logo=google-pay"></a>
 <a href="https://blockchain.com/btc/payment_request?address=3FH8UiVVKE5RkCaoaJ9Drr33Dg9L9FtsAq&amount=0.00008703&message=DONATE"><img title="Bitcoin" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white"></a>
 </p>  
+
+-------------------------------------------------------------------------------------
