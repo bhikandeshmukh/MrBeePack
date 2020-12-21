@@ -16,13 +16,7 @@
 <a href="https://github.com/bhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
  <a href="https://github.com/bhikandeshmukh/Termux-Keys"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=5.0.0&x2=0" ></a>
  <a href="https://github.com/bhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MrBeePack?style=social" ></a>
-</p>
-
--------------------------------------------------------------------------------------
-
-<p align="center">
 <a href="https://github.com/bhikandeshmukh/followers"><img title="Followers" src="https://img.shields.io/github/followers/bhikandeshmukh?color=blue&style=flat-square"></a>
-<a href="https://github.com/bhikandeshmukh/MrBeePack/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/bhikandeshmukh/MrBeePack?color=red&style=flat-square"></a>
 <a href="https://github.com/bhikandeshmukh/MrBeePack/network/members"><img title="Forks" src="https://img.shields.io/github/forks/bhikandeshmukh/MrBeePack?color=red&style=flat-square"></a>
 <a href="https://github.com/bhikandeshmukh/MrBeePack/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/bhikandeshmukh/MrBeePack?label=Watchers&color=blue&style=flat-square"></a>
 </p>
